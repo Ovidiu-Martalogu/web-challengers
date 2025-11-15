@@ -86,6 +86,7 @@ console.log(``);
 console.log(`CHALLENGE 6 - Dice Roll Simulation ....`);
 console.log(`uncomment the code to make it work...`);
 
+/*
 let userChoice;
 do {
     const diceRoll = Math.floor(Math.random() * 6) + 1;
@@ -95,4 +96,4 @@ do {
 
  let mix = [2,5,9, 1,6];
  console.log(mix.sort());
-   
+   */
