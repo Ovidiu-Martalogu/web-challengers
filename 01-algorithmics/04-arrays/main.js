@@ -44,7 +44,7 @@ console.log(``);
 console.log(`CHALLENGE 2: Weekly Temperature Extremes....`);
 console.log(`Uncomment the code to make it work...`);
 
-
+/*
 
 let temperaturesNr= prompt(`Input the number of Temperatures`);
  temperaturesNr = Number(temperaturesNr);
@@ -58,8 +58,8 @@ for (let i = 0; i < temperaturesNr; i++) {
 console.log(`The temperatures are : ${temperatures}`);
 
 
-let minimum = Math.min(temperatures);
-let maximum = Math.max(temperatures);
+let minimum = Math.min(...temperatures);
+let maximum = Math.max(...temperatures);
 console.log(`Minimum temperature: ${minimum} C`);
 console.log(`Maximum temperature: ${maximum} C`);
 
@@ -68,4 +68,9 @@ console.log(`Maximum temperature: ${maximum} C`);
 
 console.log(``);
 console.log(`CHALLENGE 3: Greatest Daily Temperature Difference....`);
+console.log(`Uncomment the code to make it work...`);
+*/
+
+console.log(``);
+console.log(`CHALLENGE 3: Greatest Daily Temperature Difference ....`);
 console.log(`Uncomment the code to make it work...`);
